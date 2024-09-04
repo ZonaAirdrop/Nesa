@@ -44,6 +44,10 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 ```
 
 select Wizardy
+Enter Name 
+Enter Email 
+Enter Api Key 
+Enter Private Key
 
 - Check docker container
 ```bash
